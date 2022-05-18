@@ -27,9 +27,11 @@ requirements:
   host:
     - r-base
     - r-ncdf4
+    - r-transformer
   run:
     - r-base
     - r-ncdf4
+    - r-transformer
 
 test:
   commands:
