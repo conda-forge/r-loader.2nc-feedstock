@@ -1,11 +1,11 @@
-About r-loader.2nc
-==================
+About r-loader.2nc-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-loader.2nc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/SantanderMetGroup/loadeR/wiki
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-loader.2nc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Write climate4R grids to netCDF files (http://www.meteo.unican.es/climate4R).
 
